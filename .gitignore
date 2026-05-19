@@ -51,3 +51,7 @@ test_report.json
 
 # AI Design
 .impeccable.md
+
+# Custom Ignores
+/commits.txt
+/package.json
