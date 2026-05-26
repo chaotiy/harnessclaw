@@ -1547,7 +1547,7 @@
       "disconnectedDesc": "It's okay to write down your thoughts first; you can continue once the connection is complete."
     },
     "dropToFiles": "Drop to add files",
-    "inputPlaceholder": "+ Enter your question, goal or next step, I'll take it from here.",
+    "inputPlaceholder": "Enter your question, goal or next step, I'll take it from here.",
     "addFiles": "Add Files",
     "planMode": "Plan Mode",
     "planModeEnabled": "Plan Mode enabled: this query will be executed in explicit steps",

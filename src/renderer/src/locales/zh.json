@@ -1557,7 +1557,7 @@
       "disconnectedDesc": "先写下想法也没关系，连接完成后就能继续处理。"
     },
     "dropToFiles": "松开即可添加文件",
-    "inputPlaceholder": "+ 输入问题、目标或下一步，我来接手。",
+    "inputPlaceholder": "输入问题、目标或下一步，我来接手。",
     "addFiles": "添加文件",
     "planMode": "Plan 模式",
     "planModeEnabled": "已开启 Plan 模式：本次提问将显式拆步执行",
