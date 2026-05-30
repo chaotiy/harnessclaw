@@ -47,6 +47,14 @@ yarn install
 ```bash
 yarn dev
 ```
+### Windows / npm 排障
+
+项目默认使用 Yarn。如果你在 Windows 上使用 npm，并遇到围绕 ESLint peer
+dependencies 的 `ERESOLVE unable to resolve dependency tree` 错误，可以使用 npm
+的兼容解析模式安装依赖：
+
+```bash
+npm install --legacy-peer-deps
 
 ### 构建与发布
 
