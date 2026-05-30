@@ -48,6 +48,16 @@ Start the application in development mode:
 yarn dev
 ```
 
+```md
+### Windows / npm troubleshooting
+
+The project is developed with Yarn. If you use npm on Windows and see an
+`ERESOLVE unable to resolve dependency tree` error around ESLint peer
+dependencies, install with npm's compatibility resolver:
+
+```bash
+npm install --legacy-peer-deps
+
 ### Build & Release
 
 To build the application for your local platform:
